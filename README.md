@@ -26,9 +26,10 @@
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<img src="https://img.shields.io/badge/HTML5-3F4141?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-3F4141?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-3F4141?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-3F4141?style=for-the-badge&logo=javascript&logoColor=white" />
+
 
 [![card](https://github-readme-stats.vercel.app/api?username=andersonmwp&theme=dark)](https://github.com/andersonmwp/)

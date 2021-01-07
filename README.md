@@ -26,10 +26,11 @@
 
 ## 🚀 Minhas Skills
 
-<img src="https://img.shields.io/badge/HTML5-3F4141?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-3F4141?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-3F4141?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-3F4141?style=for-the-badge&logo=javascript&logoColor=white" />
-
+<p>
+ <img src="https://img.shields.io/badge/HTML5-3F4141?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-3F4141?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/Bootstrap-3F4141?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-3F4141?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
 
 [![card](https://github-readme-stats.vercel.app/api?username=andersonmwp&theme=dark)](https://github.com/andersonmwp/)

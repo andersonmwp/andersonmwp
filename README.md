@@ -1,3 +1,7 @@
+<img src="https://github.com/andersonmwp/andersonmwp/blob/master/capa%20.png" />
+
+
+
 ## Olá! <img src="https://media.giphy.com/media/ggRRQe8moeCp0hNb6z/giphy.gif" width="29px"> me chamo <strong>{Anderson}!</strong>
 
 #### Eu sou um apaixonado por tecnologia, mundo geek/nerd e carros de performance!

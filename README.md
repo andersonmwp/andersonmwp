@@ -1,4 +1,4 @@
-<img src="https://github.com/andersonmwp/andersonmwp/blob/master/capa%20.png" />
+<img src="https://github.com/andersonmwp/andersonmwp/blob/master/capa.png" />
 
 
 

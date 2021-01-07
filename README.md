@@ -10,12 +10,18 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
-[![card](https://github-readme-stats.vercel.app/api?username=andersonmwp&theme=dark)](https://github.com/andersonmwp/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmwp&layout=compact&theme=dark)](https://github.com/andersonmwp/)
-
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andersonmwp/)
+[![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andersonmwp@gmail.com)
 
 
+ <a href="https://www.linkedin.com/in/andersonmwp/">
+ <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmwp/">
+</a>
+  
+<a href="mailto:andersonmwp@gmail.com">
+ <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonmwp@gmail.com">
+</a>
 
+<a href="https://www.instagram.com/andersonmwp/">
+ <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=">
+</a>

@@ -1,12 +1,14 @@
-## Olá! <img src="https://media.giphy.com/media/ggRRQe8moeCp0hNb6z/giphy.gif" width="29px"> me chamo<strong>{Anderson}!</strong>
+## Olá! <img src="https://media.giphy.com/media/ggRRQe8moeCp0hNb6z/giphy.gif" width="29px"> me chamo <strong>{Anderson}!</strong>
 
 #### Eu sou um apaixonado por tecnologia, mundo geek/nerd e carros de performance!
 
+- 📚 Estudante de Ciência da Computação
 - 👩🏻‍💻 Desenvolvedor Front-End
-- 📍 São Paulo, Brasil
+- 📍 São Paulo :brazil:
 - 🖖🏻 Nerd / Geek
 
-### 📧 Entre em contato comigo:
+## 📧 Entre em contato comigo:
+
  <a href="https://www.linkedin.com/in/andersonmwp/">
  <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmwp/">
 </a>
@@ -25,4 +27,3 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-

@@ -6,7 +6,7 @@
 #### Eu sou um apaixonado por tecnologia, mundo geek/nerd e carros de performance! ❤️
 
 - 📚 Estudante de Ciência da Computação
-- 👩🏻‍💻 Desenvolvedor Front-End
+- 👨🏻‍💻 Desenvolvedor Front-End
 - 📍 São Paulo :brazil:
 - 🖖🏻 Nerd
 

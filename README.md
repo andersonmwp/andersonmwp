@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/andersonmwp/andersonmwp/blob/main/capa1.png"  />
+<img src="https://github.com/andersonmwp/andersonmwp/blob/main/capa1.png"  />
 
 
 ## Olá! <img src="https://media.giphy.com/media/ggRRQe8moeCp0hNb6z/giphy.gif" width="29px"> me chamo <strong>{Anderson}!</strong>

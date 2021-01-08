@@ -1,4 +1,4 @@
-<img align="center" width="70%" height="auto" src="https://github.com/andersonmwp/andersonmwp/blob/main/capa.png"  />
+<img align="center" src="https://github.com/andersonmwp/andersonmwp/blob/main/capa1.png"  />
 
 
 ## Olá! <img src="https://media.giphy.com/media/ggRRQe8moeCp0hNb6z/giphy.gif" width="29px"> me chamo <strong>{Anderson}!</strong>
@@ -10,7 +10,7 @@
 - 📍 São Paulo :brazil:
 - 🖖🏻 Nerd / Geek
 
-## 📧 Entre em contato comigo:
+## 📧 Entre em Contato
 
  <a href="https://www.linkedin.com/in/andersonmwp/">
  <img src="https://img.shields.io/badge/LinkedIn-3F4141?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmwp/">

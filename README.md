@@ -13,22 +13,22 @@
 ## 📧 Entre em contato comigo:
 
  <a href="https://www.linkedin.com/in/andersonmwp/">
- <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmwp/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmwp/">
 </a>
   
 <a href="mailto:andersonmwp@gmail.com">
- <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonmwp@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-3F4141?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andersonmwp@gmail.com">
 </a>
 
 <a href="https://www.instagram.com/andersonmwp/">
- <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=">
+ <img src="https://img.shields.io/badge/Instagram-3F4141?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/andersonmwp/">
 </a>
 
 ## 🚀 Minhas Skills
 
 <p>
- <img src="https://img.shields.io/badge/HTML5-3F4141?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS3-3F4141?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/HTML-3F4141?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS-3F4141?&style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/Bootstrap-3F4141?style=for-the-badge&logo=bootstrap&logoColor=white" />
  <img src="https://img.shields.io/badge/JavaScript-3F4141?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>

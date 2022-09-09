@@ -36,3 +36,4 @@
 </p>
 
 [![card](https://github-readme-stats.vercel.app/api?username=andersonmwp&theme=dark)](https://github.com/andersonmwp/)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmwp&layout=compact&langs_count=7&theme=dark)](https://github.com/andersonmwp/)
